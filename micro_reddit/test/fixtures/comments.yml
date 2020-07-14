@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 
+  body: 
+  references: 
+  references: 
+
+two:
+  title: 
+  body: 
+  references: 
+  references: 
