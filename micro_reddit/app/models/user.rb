@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class EmailValidator < ActiveModel::Validator
   def validate(record)
     record.errors[:base] << 'Email must have an @ symbol!' unless record.email.include?('@')
