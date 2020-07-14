@@ -1,12 +1,12 @@
 AllCops:
   Exclude:
-    - "db/**/*"
-    - "bin/*" 
-    - "config/**/*"
-    - "Guardfile"
-    - "Rakefile"
-    - "node_modules/**/*"
-    - "vendor/**/*"
+    - "micro_reddit/db/**/*"
+    - "micro_reddit/bin/*" 
+    - "micro_reddit/config/**/*"
+    - "micro_reddit/Guardfile"
+    - "micro_reddit/Rakefile"
+    - "micro_reddit/node_modules/**/*"
+    - "micro_reddit/vendor/**/*"
 
   DisplayCopNames: true
 
